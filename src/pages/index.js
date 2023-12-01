@@ -1,0 +1,5 @@
+export { default as Home } from "./Home" 
+export { default as Exam } from "./Website/Exam" 
+export { default as Score } from "./Website/Score" 
+export { default as Subject } from "./Website/Subject" 
+export { default as Scan } from "./mobile/Scan"
